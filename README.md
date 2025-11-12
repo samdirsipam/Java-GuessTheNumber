@@ -22,10 +22,3 @@ Language: Java
 Compiler/IDE: Any Java IDE (VS Code, IntelliJ IDEA, Eclipse, or command line)
 Java Version: JDK 8 or higher
 
-
-You are free to CLone this Repository
-
-follow the below prompt:
-
-git clone https://github.com/yourusername/Java-Number-Guessing-Game.git
-cd Java-Number-Guessing-Game
